@@ -2,7 +2,7 @@
  Disorganized code for my thesis: Speech dereverberation using DNN.
 
 ## Files.
-* convolution.py: Convolve audio files contained in two different folders.
+* convolution.py: Convolve audio files contained in two different folders. Not neccesary if using the dataset provided. In case you want to use your own Room Impulse Responses to convolve with the _anechoic_ files
 * functionsdef.py: Different functions used for preprocessing (scaling, FFT, loading, etc).
 * dereverb-pytorch.ipynb: Notebook with the the whole pipeline. -->> [**Currently working on the cloud using Google Colab here**](https://colab.research.google.com/drive/1afmXN6R30-qaFyLhnynvBQqq3AuEp4pY)
 
